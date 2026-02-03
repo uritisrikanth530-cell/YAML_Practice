@@ -1,0 +1,7 @@
+name: YAML Practice
+version: 1.0
+enabled: true
+skills:
+  - Azure
+  - DevOps
+  - Terraform
