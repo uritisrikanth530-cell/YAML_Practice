@@ -1,0 +1,3 @@
+somedate: 2034-04-23  #Standard
+timestamp: 2034-04-23T10:20:30Z #CANONICAL
+timestamp_with_timezone: 2034-07-23T0:20:30+02:00 #with spaces

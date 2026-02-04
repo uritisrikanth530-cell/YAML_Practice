@@ -1,0 +1,31 @@
+#Block Style
+
+hobbies: 
+  -reading
+  -travelling
+  -hiking
+
+#flow style
+application: [frontend, backend, andriod, ios]
+
+#nested sequence/sequence of mapping with mixed style
+students:
+ -name: johndeo
+  age:17
+  favorates: {subjects:[math,science,histiry]}
+-name: jane
+  age: 18
+  favorates:{subjects:[literature,art,biology]}
+#mapping of sequences
+departments:
+ engineering:
+  -alice
+  -bob
+  -ahs
+ marketing:
+  -srija
+  -srikanth
+  -dev
+
+
+  

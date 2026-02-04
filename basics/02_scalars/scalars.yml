@@ -1,0 +1,28 @@
+Person:
+  fname: Srikanth
+  lname: uriti
+  gender: 'M'
+  age: 34
+  weight: 68.5
+  is_student: false   
+  is_asian: yes
+  hobbies: 
+    - reading
+    - travelling
+    - hiking
+  adsress: 
+    street: 123 Main street
+    city: somecity
+    zipcody: 522101 
+  
+hex: 0x12d6 #evaluates to 4822
+octal: 0o24432 #evaluates to 10522
+positive-infinity: .inf #evaluates to infinity
+negative-infinity: .Inf #evaluates to negative intinity
+invalidNumber: .NAN #Not a Number
+null-value: null
+null-value: ~
+null-value: 
+planestyle: JohnDoe
+single_qoute_style: '''text.with : colon'''
+double_qoute_style: "Line1\Line2\Line3"

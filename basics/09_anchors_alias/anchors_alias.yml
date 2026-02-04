@@ -1,0 +1,28 @@
+definitions: 
+ days:
+  - weekdays: &working
+     wakeup: 6:00AM
+     activites:
+      - workout
+      - working
+      - sleep
+     sleeptime: 10:00pm
+  - Weekends: &holiday
+     wakeup: 08:00AM
+     activites:
+     - workout
+     - movies
+     - sleep
+     sleeptime: 12:00AM
+
+Schedules:
+ days: 
+  weekdays:
+    - monday: *working
+    - tuesday: *working
+    - wednesday: *working
+    - thursday: *working
+    - friday: *working
+  weekends:
+    - saturdays: *holiday
+    - sunday: *holiday

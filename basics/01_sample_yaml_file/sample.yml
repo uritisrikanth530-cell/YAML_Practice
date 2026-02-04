@@ -1,0 +1,13 @@
+Person:
+  name: Sri kanth
+  age: 34
+  gender: M
+  is_student: false
+  hobbies: 
+    - reading
+    - travelling
+    - hiking
+  adsress: 
+    street: 123 Main street
+    city: somecity
+    zipcody: 522101 
